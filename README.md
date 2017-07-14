@@ -1,7 +1,7 @@
 # Zillow-Prize-Zillow-s-Home-Value-Prediction
 Can you improve the algorithm that changed the world of real estate?
 
-![](https://static.pexels.com/photos/106399/pexels-photo-106399.jpeg)
+![](http://www.maisons-peps.com/upload/image/110622403_1.jpg)
 
 https://www.kaggle.com/c/zillow-prize-1
 
